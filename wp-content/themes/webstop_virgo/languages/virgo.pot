@@ -1,0 +1,1786 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: virgo\n"
+"POT-Creation-Date: 2017-02-13 21:45+0200\n"
+"PO-Revision-Date: 2017-02-13 21:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "Oops... You got lost."
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"We receive result combining marketing, a creative and industry experience."
+msgstr ""
+
+#: 404.php:21 assets/customizer.php:806
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:131 archive.php:181 archive.php:217 assets/customizer.php:58
+#: category.php:98 category.php:134 category.php:227
+msgid "More posts"
+msgstr ""
+
+#: assets/categoris-image.php:39 assets/categoris-image.php:61
+#: assets/categoris-image.php:145
+msgid "Image"
+msgstr ""
+
+#: assets/categoris-image.php:42 assets/categoris-image.php:64
+#: assets/categoris-image.php:126
+msgid "Upload/Add image"
+msgstr ""
+
+#: assets/categoris-image.php:65 assets/categoris-image.php:127
+msgid "Remove image"
+msgstr ""
+
+#: assets/categoris-image.php:164
+msgid "Thumbnail"
+msgstr ""
+
+#: assets/categoris-image.php:189
+msgid ""
+"Please select the taxonomies you want to exclude it from Categories Images "
+"plugin"
+msgstr ""
+
+#: assets/categoris-image.php:214
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: assets/categoris-image.php:218
+msgid "Categories Images"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:334 assets/tgm.php:80
+msgid "Install Required Plugins"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:335 assets/tgm.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:337 assets/tgm.php:82
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:340 assets/tgm.php:83
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:343 assets/tgm.php:84
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:349 assets/tgm.php:86
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:355 assets/tgm.php:96
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:367 assets/tgm.php:90
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:373 assets/tgm.php:92
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:378 assets/tgm.php:100
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:388 assets/tgm.php:101
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:392 assets/tgm.php:102
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:393
+#: assets/class-tgm-plugin-activation.php:912
+#: assets/class-tgm-plugin-activation.php:2618
+#: assets/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:394
+#: assets/class-tgm-plugin-activation.php:3244 assets/tgm.php:103
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:395
+#: assets/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1019
+#: assets/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1206
+#: assets/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3594
+#: assets/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3594
+#: assets/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/customizer.php:12
+msgid "Blog settings"
+msgstr ""
+
+#: assets/customizer.php:13
+msgid "Settings of the blog"
+msgstr ""
+
+#: assets/customizer.php:24 assets/customizer.php:35
+msgid "Location sidebar"
+msgstr ""
+
+#: assets/customizer.php:40
+msgid "Sidebar Left"
+msgstr ""
+
+#: assets/customizer.php:41
+msgid "Sidebar Right"
+msgstr ""
+
+#: assets/customizer.php:50
+msgid "Blog list"
+msgstr ""
+
+#: assets/customizer.php:62
+msgid "Button text More posts"
+msgstr ""
+
+#: assets/customizer.php:75
+msgid "Limit word in post blog list"
+msgstr ""
+
+#: assets/customizer.php:89
+msgid "Select blog type"
+msgstr ""
+
+#: assets/customizer.php:94 assets/metabox.php:169
+msgid "default"
+msgstr ""
+
+#: assets/customizer.php:95
+msgid "column 2"
+msgstr ""
+
+#: assets/customizer.php:96
+msgid "column 3"
+msgstr ""
+
+#: assets/customizer.php:97 functions.php:144
+msgid "blog sidebar"
+msgstr ""
+
+#: assets/customizer.php:107
+msgid "Social networks"
+msgstr ""
+
+#: assets/customizer.php:109
+msgid "Enter url desired social networks so that they appear on the site"
+msgstr ""
+
+#: assets/customizer.php:120
+msgid " Insert Social shortcode or another "
+msgstr ""
+
+#: assets/customizer.php:122
+msgid ""
+"its show in footer example shortcode [virgo_social_links url=\"https://"
+"pinterest.com/\" class=\"fa fa-pinterest\"]"
+msgstr ""
+
+#: assets/customizer.php:135
+msgid "Facebook  url"
+msgstr ""
+
+#: assets/customizer.php:148
+msgid "Twitter url"
+msgstr ""
+
+#: assets/customizer.php:161
+msgid "Behance url"
+msgstr ""
+
+#: assets/customizer.php:174
+msgid "instagram url"
+msgstr ""
+
+#: assets/customizer.php:186
+msgid "Setting email"
+msgstr ""
+
+#: assets/customizer.php:199
+msgid " Insert your email"
+msgstr ""
+
+#: assets/customizer.php:201
+msgid "can specify one email"
+msgstr ""
+
+#: assets/customizer.php:212
+msgid "Email sitting"
+msgstr ""
+
+#: assets/customizer.php:219
+msgid "Enter email"
+msgstr ""
+
+#: assets/customizer.php:222
+msgid "can specify  one email"
+msgstr ""
+
+#: assets/customizer.php:236
+msgid "Header"
+msgstr ""
+
+#: assets/customizer.php:252
+msgid " Phone in the header"
+msgstr ""
+
+#: assets/customizer.php:265
+msgid " Mail in the header"
+msgstr ""
+
+#: assets/customizer.php:280
+msgid "Logo"
+msgstr ""
+
+#: assets/customizer.php:282
+msgid "Here You can change the logo in the header and in the footer"
+msgstr ""
+
+#: assets/customizer.php:294
+msgid " Logo"
+msgstr ""
+
+#: assets/customizer.php:312
+msgid "Logo text"
+msgstr ""
+
+#: assets/customizer.php:325
+msgid "Map style"
+msgstr ""
+
+#: assets/customizer.php:327
+msgid ""
+"Map style JSON config (see https://snazzymaps.com, http://www.mapstylr.com/"
+"showcase/ )"
+msgstr ""
+
+#: assets/customizer.php:331
+msgid "stylemap_json"
+msgstr ""
+
+#: assets/customizer.php:337
+msgid "stylemap json"
+msgstr ""
+
+#: assets/customizer.php:352
+msgid "Insert you google map api key"
+msgstr ""
+
+#: assets/customizer.php:355
+msgid ""
+"(see https://developers.google.com/maps/documentation/javascript/get-api-"
+"key#key )"
+msgstr ""
+
+#: assets/customizer.php:389
+msgid "Link "
+msgstr ""
+
+#: assets/customizer.php:392
+msgid "Title text "
+msgstr ""
+
+#: assets/customizer.php:395
+msgid "Statistics number "
+msgstr ""
+
+#: assets/customizer.php:398
+msgid "Form textarea border buttom "
+msgstr ""
+
+#: assets/customizer.php:401
+msgid "Form subscribe placeholder text "
+msgstr ""
+
+#: assets/customizer.php:404
+msgid "Form validation label text "
+msgstr ""
+
+#: assets/customizer.php:407
+msgid "Form validation error text "
+msgstr ""
+
+#: assets/customizer.php:410
+msgid "Button focuse, button viole "
+msgstr ""
+
+#: assets/customizer.php:413
+msgid "Banner dark, button dark background "
+msgstr ""
+
+#: assets/customizer.php:416
+msgid "Banner blue, button blue background "
+msgstr ""
+
+#: assets/customizer.php:419
+msgid "Brown button, background brown "
+msgstr ""
+
+#: assets/customizer.php:422
+msgid "Text dark "
+msgstr ""
+
+#: assets/customizer.php:425
+msgid "Category name. post name "
+msgstr ""
+
+#: assets/customizer.php:428
+msgid "Background dark"
+msgstr ""
+
+#: assets/customizer.php:431
+msgid "Left menu link brandpanel "
+msgstr ""
+
+#: assets/customizer.php:434
+msgid "Background light"
+msgstr ""
+
+#: assets/customizer.php:437 assets/customizer.php:440
+msgid "Background violet"
+msgstr ""
+
+#: assets/customizer.php:443
+msgid "Background yellow"
+msgstr ""
+
+#: assets/customizer.php:446
+msgid "Mobile menu link "
+msgstr ""
+
+#: assets/customizer.php:449
+msgid "Left menu link background "
+msgstr ""
+
+#: assets/customizer.php:452
+msgid "Left menu link hover "
+msgstr ""
+
+#: assets/customizer.php:455
+msgid "Left menu link "
+msgstr ""
+
+#: assets/customizer.php:458
+msgid "Statistics dark column border "
+msgstr ""
+
+#: assets/customizer.php:461
+msgid "Portfolio image popup background "
+msgstr ""
+
+#: assets/customizer.php:464
+msgid "Blog author name text "
+msgstr ""
+
+#: assets/customizer.php:467
+msgid "Blog tags background "
+msgstr ""
+
+#: assets/customizer.php:470
+msgid "Blog tags text "
+msgstr ""
+
+#: assets/customizer.php:473
+msgid "Client reviews qute icon "
+msgstr ""
+
+#: assets/customizer.php:476
+msgid "Owl reviews slider pagination "
+msgstr ""
+
+#: assets/customizer.php:479
+msgid "Address icon "
+msgstr ""
+
+#: assets/customizer.php:482
+msgid "Address title "
+msgstr ""
+
+#: assets/customizer.php:485
+msgid "Footer light background "
+msgstr ""
+
+#: assets/customizer.php:488
+msgid "Footer bottom text "
+msgstr ""
+
+#: assets/customizer.php:491
+msgid "Model info text "
+msgstr ""
+
+#: assets/customizer.php:495
+msgid "Statistics column border "
+msgstr ""
+
+#: assets/customizer.php:498
+msgid "bg yellow "
+msgstr ""
+
+#: assets/customizer.php:509
+msgid "Color "
+msgstr ""
+
+#: assets/customizer.php:523
+msgid "Performance"
+msgstr ""
+
+#: assets/customizer.php:533
+msgid "Enable preloader ?"
+msgstr ""
+
+#: assets/customizer.php:546
+msgid "Enable smoothscroll?"
+msgstr ""
+
+#: assets/customizer.php:562 assets/customizer.php:583
+msgid "Contact form shortcode"
+msgstr ""
+
+#: assets/customizer.php:567 footer-dark.php:57 footer-dark.php:76
+#: footer.php:67 footer.php:86 footer.php:88
+msgid "Get start"
+msgstr ""
+
+#: assets/customizer.php:571
+msgid "Contact form text"
+msgstr ""
+
+#: assets/customizer.php:590
+msgid "Get start "
+msgstr ""
+
+#: assets/customizer.php:594
+msgid "modal title"
+msgstr ""
+
+#: assets/customizer.php:602
+msgid "Leave your contacts and our managers<br> will contact you soon. "
+msgstr ""
+
+#: assets/customizer.php:606
+msgid "modal description"
+msgstr ""
+
+#: assets/customizer.php:613 footer-dark.php:127 footer.php:138
+msgid "Thank you"
+msgstr ""
+
+#: assets/customizer.php:617
+msgid "Modal susses title"
+msgstr ""
+
+#: assets/customizer.php:628 footer-dark.php:130 footer.php:141
+msgid "Your message is successfully sent..."
+msgstr ""
+
+#: assets/customizer.php:632
+msgid "Modal susses subtitle"
+msgstr ""
+
+#: assets/customizer.php:642 footer-dark.php:147 footer.php:158
+msgid "Sorry"
+msgstr ""
+
+#: assets/customizer.php:646
+msgid "Modal error title"
+msgstr ""
+
+#: assets/customizer.php:655 footer-dark.php:150 footer.php:161
+msgid "Something went wrong"
+msgstr ""
+
+#: assets/customizer.php:659
+msgid "Modal error subtitle"
+msgstr ""
+
+#: assets/customizer.php:675
+msgid "We're sorry, but something went wrong"
+msgstr ""
+
+#: assets/customizer.php:687
+msgid "Footer"
+msgstr ""
+
+#: assets/customizer.php:700
+msgid "Footer copyright"
+msgstr ""
+
+#: assets/customizer.php:717
+msgid " Phone in the footer"
+msgstr ""
+
+#: assets/customizer.php:735
+msgid " Email in the footer"
+msgstr ""
+
+#: assets/customizer.php:750
+msgid "404"
+msgstr ""
+
+#: assets/customizer.php:764
+msgid "404 page Top img"
+msgstr ""
+
+#: assets/customizer.php:772
+msgid "main_title"
+msgstr ""
+
+#: assets/customizer.php:778
+msgid "Top title"
+msgstr ""
+
+#: assets/customizer.php:781
+msgid "insert title (for example 404 Page) )"
+msgstr ""
+
+#: assets/customizer.php:789
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore "
+"veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim "
+"ipsam voluptatem quia voluptas."
+msgstr ""
+
+#: assets/customizer.php:794
+msgid "Insert your description"
+msgstr ""
+
+#: assets/customizer.php:797 assets/customizer.php:814
+msgid "(insert text )"
+msgstr ""
+
+#: assets/customizer.php:811
+msgid "Insert your button text"
+msgstr ""
+
+#: assets/customizer.php:829
+msgid "Insert your button url"
+msgstr ""
+
+#: assets/customizer.php:832
+msgid "(insert url )"
+msgstr ""
+
+#: assets/customizer.php:845
+msgid "Mailchimp / Subscribe "
+msgstr ""
+
+#: assets/customizer.php:847
+msgid "Specify api key and ID list"
+msgstr ""
+
+#: assets/customizer.php:852
+msgid "API key"
+msgstr ""
+
+#: assets/customizer.php:861
+msgid "ID list"
+msgstr ""
+
+#: assets/mailchamp.php:12
+msgid "You have incorrect API key  "
+msgstr ""
+
+#: assets/mailchamp.php:18
+msgid "You have incorrect dc "
+msgstr ""
+
+#: assets/mailchamp.php:24
+msgid "You have incorrect id list "
+msgstr ""
+
+#: assets/metabox.php:10
+msgid "Virgo Page Options"
+msgstr ""
+
+#: assets/metabox.php:17
+msgid "Big title"
+msgstr ""
+
+#: assets/metabox.php:24
+msgid "virgo portfolio"
+msgstr ""
+
+#: assets/metabox.php:41
+msgid "50% widht?"
+msgstr ""
+
+#: assets/metabox.php:155
+msgid "Select footer style "
+msgstr ""
+
+#: assets/metabox.php:158
+msgid "dark"
+msgstr ""
+
+#: assets/metabox.php:161
+msgid "light"
+msgstr ""
+
+#: assets/metabox.php:166
+msgid "Select header style "
+msgstr ""
+
+#: assets/metabox.php:172
+msgid "fixed"
+msgstr ""
+
+#: assets/metabox.php:178
+msgid "Menu item name"
+msgstr ""
+
+#: assets/metabox.php:202 assets/metabox.php:230
+msgid "+ Add More item"
+msgstr ""
+
+#: assets/metabox.php:204
+msgid "Format: Any text"
+msgstr ""
+
+#: assets/metabox.php:207
+msgid "Menu item Url"
+msgstr ""
+
+#: assets/metabox.php:232
+msgid "Format: #sectionname or http://yoururl.com"
+msgstr ""
+
+#: assets/metabox.php:254 assets/metabox.php:256
+msgid "virgo Image"
+msgstr ""
+
+#: assets/metabox.php:279
+msgid "Remove virgo image"
+msgstr ""
+
+#: assets/metabox.php:296 assets/metabox.php:300 assets/metabox.php:301
+msgid "Set virgo image"
+msgstr ""
+
+#: assets/metabox.php:299
+msgid "Choose an image"
+msgstr ""
+
+#: assets/ot_demo_function.php:43
+msgid "General Config"
+msgstr ""
+
+#: assets/ot_demo_function.php:47
+msgid "Custom CSS & JS"
+msgstr ""
+
+#: assets/ot_demo_function.php:52
+msgid "Image mask"
+msgstr ""
+
+#: assets/ot_demo_function.php:56 assets/ot_demo_function.php:227
+msgid "Google Fonts"
+msgstr ""
+
+#: assets/ot_demo_function.php:60 assets/ot_demo_function.php:245
+msgid "Typography"
+msgstr ""
+
+#: assets/ot_demo_function.php:64
+msgid "Navigation"
+msgstr ""
+
+#: assets/ot_demo_function.php:69
+msgid "Theme Sidebars Color Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:75
+msgid "Frontage Color Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:80
+msgid "blog/Page Header Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:84
+msgid "blog/Page Header Color Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:89
+msgid "Single Page Header Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:93
+msgid "Archive Page Header Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:97
+msgid "404 Page Header Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:101
+msgid "Search Page Header Options"
+msgstr ""
+
+#: assets/ot_demo_function.php:112
+msgid "additional css"
+msgstr ""
+
+#: assets/ot_demo_function.php:113
+msgid "You can add additional css "
+msgstr ""
+
+#: assets/ot_demo_function.php:125
+msgid "additional javascript"
+msgstr ""
+
+#: assets/ot_demo_function.php:126
+msgid "You can add additional javascript "
+msgstr ""
+
+#: assets/ot_demo_function.php:138
+msgid "Background Black mask"
+msgstr ""
+
+#: assets/ot_demo_function.php:139
+#, php-format
+msgid "Background Image Black mask %s or %s."
+msgstr ""
+
+#: assets/ot_demo_function.php:148
+msgid "Mask color"
+msgstr ""
+
+#: assets/ot_demo_function.php:149 assets/ot_demo_function.php:356
+msgid "Please select color with opacity"
+msgstr ""
+
+#: assets/ot_demo_function.php:162
+msgid "Frontpage paragraph  color"
+msgstr ""
+
+#: assets/ot_demo_function.php:163 assets/ot_demo_function.php:171
+#: assets/ot_demo_function.php:179 assets/ot_demo_function.php:364
+#: assets/ot_demo_function.php:372 assets/ot_demo_function.php:380
+#: assets/ot_demo_function.php:390 assets/ot_demo_function.php:398
+#: assets/ot_demo_function.php:406 assets/ot_demo_function.php:414
+#: assets/ot_demo_function.php:422 assets/ot_demo_function.php:430
+#: assets/ot_demo_function.php:458 assets/ot_demo_function.php:466
+#: assets/ot_demo_function.php:538 assets/ot_demo_function.php:546
+#: assets/ot_demo_function.php:591 assets/ot_demo_function.php:618
+#: assets/ot_demo_function.php:669 assets/ot_demo_function.php:706
+#: assets/ot_demo_function.php:733 assets/ot_demo_function.php:791
+#: assets/ot_demo_function.php:799
+msgid "Please select color"
+msgstr ""
+
+#: assets/ot_demo_function.php:170
+msgid "Frontpage button background color"
+msgstr ""
+
+#: assets/ot_demo_function.php:178
+msgid "Frontpage button background hover color"
+msgstr ""
+
+#: assets/ot_demo_function.php:191 assets/ot_demo_function.php:192
+msgid "Logo width"
+msgstr ""
+
+#: assets/ot_demo_function.php:208
+msgid "Logo  text font size"
+msgstr ""
+
+#: assets/ot_demo_function.php:209
+msgid "Logo font size"
+msgstr ""
+
+#: assets/ot_demo_function.php:246 assets/ot_demo_function.php:261
+#: assets/ot_demo_function.php:276 assets/ot_demo_function.php:291
+#: assets/ot_demo_function.php:306 assets/ot_demo_function.php:321
+#: assets/ot_demo_function.php:336
+msgid ""
+"The Typography option type is for adding typography styles to your site."
+msgstr ""
+
+#: assets/ot_demo_function.php:260
+msgid "Typography h1"
+msgstr ""
+
+#: assets/ot_demo_function.php:275
+msgid "Typography h2"
+msgstr ""
+
+#: assets/ot_demo_function.php:290
+msgid "Typography h3"
+msgstr ""
+
+#: assets/ot_demo_function.php:305
+msgid "Typography h4"
+msgstr ""
+
+#: assets/ot_demo_function.php:320
+msgid "Typography h5"
+msgstr ""
+
+#: assets/ot_demo_function.php:335
+msgid "Typography h6"
+msgstr ""
+
+#: assets/ot_demo_function.php:355
+msgid "Theme navigation background color "
+msgstr ""
+
+#: assets/ot_demo_function.php:363
+msgid "Theme navigation menu item color"
+msgstr ""
+
+#: assets/ot_demo_function.php:371
+msgid "Theme navigation menu item color affix"
+msgstr ""
+
+#: assets/ot_demo_function.php:379
+msgid "Theme navigation menu item hover color"
+msgstr ""
+
+#: assets/ot_demo_function.php:389
+msgid "Theme Sidebar widget general color"
+msgstr ""
+
+#: assets/ot_demo_function.php:397
+msgid "Theme Sidebar widget title color"
+msgstr ""
+
+#: assets/ot_demo_function.php:405
+msgid "Theme Sidebar link title color"
+msgstr ""
+
+#: assets/ot_demo_function.php:413
+msgid "Theme Sidebar link title hover color"
+msgstr ""
+
+#: assets/ot_demo_function.php:421
+msgid "Theme Sidebar search submit text color"
+msgstr ""
+
+#: assets/ot_demo_function.php:429
+msgid "Theme Sidebar search submit color"
+msgstr ""
+
+#: assets/ot_demo_function.php:441
+msgid "Pages header background image visibility"
+msgstr ""
+
+#: assets/ot_demo_function.php:442
+#, php-format
+msgid "Heading visibility %s or %s."
+msgstr ""
+
+#: assets/ot_demo_function.php:457
+msgid "blog Pages Header Section background color "
+msgstr ""
+
+#: assets/ot_demo_function.php:465
+msgid "blog Pages Header Section background mask color "
+msgstr ""
+
+#: assets/ot_demo_function.php:475 assets/ot_demo_function.php:509
+#: assets/ot_demo_function.php:560 assets/ot_demo_function.php:627
+#: assets/ot_demo_function.php:741
+msgid "Header padding top"
+msgstr ""
+
+#: assets/ot_demo_function.php:476 assets/ot_demo_function.php:490
+#: assets/ot_demo_function.php:510 assets/ot_demo_function.php:524
+#: assets/ot_demo_function.php:561 assets/ot_demo_function.php:575
+#: assets/ot_demo_function.php:628 assets/ot_demo_function.php:642
+#: assets/ot_demo_function.php:742 assets/ot_demo_function.php:756
+msgid "You can use this option for heading text vertical align"
+msgstr ""
+
+#: assets/ot_demo_function.php:489 assets/ot_demo_function.php:523
+#: assets/ot_demo_function.php:574 assets/ot_demo_function.php:641
+#: assets/ot_demo_function.php:755
+msgid "Header padding bottom"
+msgstr ""
+
+#: assets/ot_demo_function.php:537
+msgid "Single Pages Heading color "
+msgstr ""
+
+#: assets/ot_demo_function.php:545
+msgid "Single Pages title post color "
+msgstr ""
+
+#: assets/ot_demo_function.php:590
+msgid "Archive Pages Heading color "
+msgstr ""
+
+#: assets/ot_demo_function.php:603
+msgid "404 Header Section background image"
+msgstr ""
+
+#: assets/ot_demo_function.php:604 assets/ot_demo_function.php:719
+msgid "You can upload your image for parallax header"
+msgstr ""
+
+#: assets/ot_demo_function.php:617
+msgid "404 Pages Header Section background color "
+msgstr ""
+
+#: assets/ot_demo_function.php:655
+msgid "Oops... You got lost. "
+msgstr ""
+
+#: assets/ot_demo_function.php:656
+msgid "Enter Error Heading"
+msgstr ""
+
+#: assets/ot_demo_function.php:668
+msgid "404 Pages Heading color "
+msgstr ""
+
+#: assets/ot_demo_function.php:678
+msgid "404 Page slogan visibility"
+msgstr ""
+
+#: assets/ot_demo_function.php:679
+#, php-format
+msgid "404 Page slogan visibility %s or %s."
+msgstr ""
+
+#: assets/ot_demo_function.php:693
+msgid "404 Page Slogan"
+msgstr ""
+
+#: assets/ot_demo_function.php:694
+msgid "Enter 404 Page Slogan"
+msgstr ""
+
+#: assets/ot_demo_function.php:705
+msgid "404 Pages paragraph/slogan color "
+msgstr ""
+
+#: assets/ot_demo_function.php:718
+msgid "Search Header Section background image"
+msgstr ""
+
+#: assets/ot_demo_function.php:732
+msgid "Search Pages Heading color "
+msgstr ""
+
+#: assets/ot_demo_function.php:771
+msgid "Search Page Heading font size"
+msgstr ""
+
+#: assets/ot_demo_function.php:772
+msgid "Enter Search Page Heading font size"
+msgstr ""
+
+#: assets/ot_demo_function.php:790
+msgid "blog Pages Heading color "
+msgstr ""
+
+#: assets/ot_demo_function.php:798
+msgid "blog Pages  post / page title color "
+msgstr ""
+
+#: assets/tgm.php:88
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/tgm.php:94
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/tgm.php:98
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/tgm.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: assets/widgets.php:37 assets/widgets.php:41
+msgid "Virgo author"
+msgstr ""
+
+#: assets/widgets.php:38
+msgid "It displays information about the author"
+msgstr ""
+
+#: assets/widgets.php:54 assets/widgets.php:131
+msgid "ABOUT ME"
+msgstr ""
+
+#: assets/widgets.php:56 assets/widgets.php:133
+msgid "TOM ROBBINS"
+msgstr ""
+
+#: assets/widgets.php:57 assets/widgets.php:134
+msgid "WEB DESIGNER"
+msgstr ""
+
+#: assets/widgets.php:67 assets/widgets.php:302 assets/widgets.php:360
+#: assets/widgets.php:470 assets/widgets.php:790 assets/widgets.php:944
+#: assets/widgets.php:1077
+msgid "Title:"
+msgstr ""
+
+#: assets/widgets.php:76
+msgid "Author photo:"
+msgstr ""
+
+#: assets/widgets.php:86
+msgid "Author photo(insert image url)"
+msgstr ""
+
+#: assets/widgets.php:97
+msgid "Author name:"
+msgstr ""
+
+#: assets/widgets.php:108
+msgid "Author profession:"
+msgstr ""
+
+#: assets/widgets.php:192 assets/widgets.php:196
+msgid "Virgo  Menu"
+msgstr ""
+
+#: assets/widgets.php:193
+msgid "It displays Menu"
+msgstr ""
+
+#: assets/widgets.php:295
+msgid "No menus have been created yet."
+msgstr ""
+
+#: assets/widgets.php:295
+msgid "Create some"
+msgstr ""
+
+#: assets/widgets.php:310
+msgid "Select Menu:"
+msgstr ""
+
+#: assets/widgets.php:313
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: assets/widgets.php:332
+msgid "Virgo NEWS LETTER"
+msgstr ""
+
+#: assets/widgets.php:333 assets/widgets.php:443
+msgid "It displays NEWS LETTER"
+msgstr ""
+
+#: assets/widgets.php:336
+msgid "Virgo NEWS_LETTER"
+msgstr ""
+
+#: assets/widgets.php:349 assets/widgets.php:394 assets/widgets.php:459
+#: assets/widgets.php:504
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: assets/widgets.php:371 assets/widgets.php:481
+msgid "Text placeholder:"
+msgstr ""
+
+#: assets/widgets.php:442
+msgid "Virgo NEWS LETTER DARK"
+msgstr ""
+
+#: assets/widgets.php:446
+msgid "Virgo NEWS_LETTER_DARK)"
+msgstr ""
+
+#: assets/widgets.php:552
+msgid "Virgo footer info"
+msgstr ""
+
+#: assets/widgets.php:553
+msgid "It displays footer information"
+msgstr ""
+
+#: assets/widgets.php:556
+msgid "virgo footer_info"
+msgstr ""
+
+#: assets/widgets.php:570
+msgid "We create web products for the help and growth of your business."
+msgstr ""
+
+#: assets/widgets.php:582
+msgid " Insert title"
+msgstr ""
+
+#: assets/widgets.php:592
+msgid " Insert text:"
+msgstr ""
+
+#: assets/widgets.php:617
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at purus varius "
+"odio tempus cursus. Donec quis nibh luctus, posuere velit vitae, commodo "
+"dui. Nullam eu blandit orci. Pellentesque sit amet enim sapien. Fusce nec "
+"mauris pellentesque, lacinia quam eu, molestie elit."
+msgstr ""
+
+#: assets/widgets.php:656
+msgid "Virgo footer contact"
+msgstr ""
+
+#: assets/widgets.php:657
+msgid "It displays footer contacts"
+msgstr ""
+
+#: assets/widgets.php:660
+msgid "virgo footer_contact"
+msgstr ""
+
+#: assets/widgets.php:674
+msgid "+8 800 555 35 35 "
+msgstr ""
+
+#: assets/widgets.php:686
+msgid " Insert phone"
+msgstr ""
+
+#: assets/widgets.php:696
+msgid " Insert email:"
+msgstr ""
+
+#: assets/widgets.php:761
+msgid "Virgo  Recent posts"
+msgstr ""
+
+#: assets/widgets.php:762 assets/widgets.php:916
+msgid "It displays a list of tweets"
+msgstr ""
+
+#: assets/widgets.php:765 assets/widgets.php:919
+msgid "Virgo Tweets2"
+msgstr ""
+
+#: assets/widgets.php:778 assets/widgets.php:832 assets/widgets.php:903
+msgid "Recent posts"
+msgstr ""
+
+#: assets/widgets.php:802 assets/widgets.php:956
+msgid "How many show post?"
+msgstr ""
+
+#: assets/widgets.php:915
+msgid "Virgo Recent comments"
+msgstr ""
+
+#: assets/widgets.php:932 assets/widgets.php:986 assets/widgets.php:1040
+msgid "Recent comments"
+msgstr ""
+
+#: assets/widgets.php:1053 assets/widgets.php:1057
+msgid "Virgo TAG"
+msgstr ""
+
+#: assets/widgets.php:1054
+msgid "It displays a list of TAG"
+msgstr ""
+
+#: assets/widgets.php:1098
+msgid "Tags"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:74
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:78
+msgid "Name *"
+msgstr ""
+
+#: comments.php:83 footer-dark.php:75 footer.php:85
+msgid "Email *"
+msgstr ""
+
+#: comments.php:88
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:90 footer-dark.php:78
+msgid "Submit"
+msgstr ""
+
+#: comments.php:92
+msgid "Post comment"
+msgstr ""
+
+#: footer-dark.php:13 footer.php:22
+msgid "Virgo "
+msgstr ""
+
+#: footer-dark.php:13 footer.php:22
+msgid ". All rights reserved "
+msgstr ""
+
+#: footer-dark.php:74 footer.php:84
+msgid "Name "
+msgstr ""
+
+#: footer-dark.php:77 footer.php:87
+msgid "Message"
+msgstr ""
+
+#: footer-dark.php:124 footer-dark.php:144 footer.php:65 footer.php:135
+#: footer.php:155
+msgid "Close"
+msgstr ""
+
+#: functions.php:80
+msgid "Header menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Left menu"
+msgstr ""
+
+#: functions.php:82
+msgid "Collapse menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Left menu light"
+msgstr ""
+
+#: functions.php:140
+msgid "sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer sidebar "
+msgstr ""
+
+#: functions.php:154
+msgid "Footer sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Dark sidebar "
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Dark sidebar"
+msgstr ""
+
+#: functions.php:244
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:327
+msgid "Previous"
+msgstr ""
+
+#: functions.php:329
+msgid "Next"
+msgstr ""
+
+#: header-collapse.php:56 header-collapseDark.php:56
+#: header-collapseInterior.php:56 header-dark.php:52 header-light.php:52
+#: header.php:64
+msgid "Toggle navigation"
+msgstr ""
+
+#: partials/col2content.php:30 partials/col3content.php:33
+#: partials/content.php:46 partials/content.php:64 partials/content.php:95
+msgid "by "
+msgstr ""
+
+#: partials/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: partials/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:14 search.php:74
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/content.php:115
+msgid "Tags "
+msgstr ""
+
+#: partials/post-autor.php:23
+msgid "by"
+msgstr ""
+
+#: partials/single-meta.php:5
+msgid "Share:"
+msgstr ""
+
+#: search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: taxonomy-projects_categories.php:125
+msgid "More projects"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "virgo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://virgo.paul-themes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "virgo - Architecture WordPress Template"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VK"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://paul-themes.com/"
+msgstr ""
